@@ -48,6 +48,7 @@ public class QuickHullAlgorithm implements ConvexHullPoints {
 	    
 	    // Construct S2, and add its convex hull to the complete convex hull
 	    hullSet(pn,p1,s2,convexHull);
+		
 	    
 	    return convexHull;
 	  }
